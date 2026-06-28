@@ -1,0 +1,6 @@
+# Python dependencies for the FastAPI project.
+fastapi
+uvicorn
+python-dotenv
+requests
+pycryptodome
